@@ -44,6 +44,9 @@ Now copy your Bot Token, **DO NOT SHARE THIS WITH ANYONE. EVEN IF THEY ARE YOUR 
 I do not offer support, I think this should be pretty obvious as to why.
 HOWEVER, if you are having issues and you believe my code is responsible:
 
+> Submit a Issue/Pull Request <3
+  - [I'd like to submit a issue.](https://github.com/owospace/Discord-JS-Base/issues/new)
+  - [I'd like to submit a Pull Request.](https://github.com/owospace/Discord-JS-Base/pulls)
 > Discord
   - My Discord is 'space#0002' without the quotes.
 > Email
