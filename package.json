@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple JavaScript Bot Base for Discord.",
+  "main": "bot.js",
+  "repository": "https://github.com/owospace/Discord-JS-Base.git",
+  "author": "space <me@spce.moe>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.29.1"
+  }
+}
