@@ -7,7 +7,7 @@
   "author": "space <me@spce.moe>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.3",
     "moment": "^2.29.1"
   }
 }
